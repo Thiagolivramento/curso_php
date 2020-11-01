@@ -1,9 +1,9 @@
 <?php
 
-        $idade = 17;
-        $peso = 68;
+        $idade= 27;
+        $peso= 68;
 
-        if(($idade>= 16 $$ $idade<= 69) $$ $peso>=50){
+        if(($idade>= 16 && $idade<= 69) && $peso>=50){
 
             echo "Atende aos requisitos";
 
