@@ -7,7 +7,7 @@
 
             echo "Atende aos requisitos";
 
-        else {
+       } else {
 
             echo "Não atende aos requisitos";
 
